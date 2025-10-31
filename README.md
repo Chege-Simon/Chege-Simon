@@ -35,10 +35,11 @@ I enjoy building scalable, high-performance applications and backend systems tha
 
 ### 📈 Activities  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Chege-Simon&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Chege-Simon&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
-</p>
+<div>
+  <img src="https://github-readme-stats-beta-opal.vercel.app/api?username=Chege-Simon&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Github Activity" width="49%">
+  <img src="https://github-readme-stats-beta-opal.vercel.app/api/top-langs/?username=Chege-Simon&layout=compact&count_private=true&theme=gruvbox" alt="Top Langs"  />
+</div>
+
 
 ---
 
