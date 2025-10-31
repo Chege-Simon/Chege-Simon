@@ -33,16 +33,6 @@ I enjoy building scalable, high-performance applications and backend systems tha
 
 ---
 
-### 📈 Activities  
-
-<div>
-  <img src="https://github-readme-stats-beta-opal.vercel.app/api?username=Chege-Simon&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" alt="Github Activity" width="49%">
-  <img src="https://github-readme-stats-beta-opal.vercel.app/api/top-langs/?username=Chege-Simon&layout=compact&count_private=true&theme=gruvbox" alt="Top Langs"  />
-</div>
-
-
----
-
 ### 📫 Get in Touch  
 - 🌍 Nairobi, Kenya  
 - 💼 [LinkedIn](www.linkedin.com/in/simon-chege-ab313418a)  
